@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PyBlocks Editor</title>
+  <script src="https://unpkg.com/blockly/blockly.min.js"></script>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <a href="/pyblocks">Home</a>
+  <div id="blocklyDiv"></div>
+  <script src="editor.js"></script>
+</body>
