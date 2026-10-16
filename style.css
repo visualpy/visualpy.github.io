@@ -19,6 +19,12 @@ h1 {
   text-decoration: underline dashed #d6c4b0 5px;
 }
 
+header {
+  background-color: #d6c4b0
+  width: 100%;
+  padding: 15px 30px;
+}
+
 h2 {
   font-family: 'Asap';
   font-weight: 700;
